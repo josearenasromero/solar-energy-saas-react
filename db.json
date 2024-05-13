@@ -1,0 +1,563 @@
+{
+  "users": {
+    "data": [
+      {
+        "id": 1,
+        "name": "Charles M. Montgomery",
+        "email": "LouiseDPatterson@armyspy.com",
+        "role": "admin"
+      },
+      {
+        "id": 2,
+        "name": "Agatha E. Kelley",
+        "email": "GeraldineMCarter@dayrep.com",
+        "role": "admin"
+      },
+      {
+        "id": 3,
+        "name": "Rebecca N. Miles",
+        "email": "AngelaBGoins@armyspy.com",
+        "role": "admin"
+      },
+      {
+        "id": 4,
+        "name": "Terry G. Collins",
+        "email": "PatriciaHBliss@dayrep.com",
+        "role": "admin"
+      },
+      {
+        "id": 5,
+        "name": "Laverne F. Calderon",
+        "email": "JonJColeman@jourrapide.com",
+        "role": "admin"
+      },
+      {
+        "id": 6,
+        "name": "Bertha D. Vargas",
+        "email": "HelenBReynolds@dayrep.com",
+        "role": "user"
+      },
+      {
+        "id": 7,
+        "name": "Jose L. Reny",
+        "email": "MeganIJones@armyspy.com",
+        "role": "user"
+      },
+      {
+        "id": 8,
+        "name": "Teresa D. Henry",
+        "email": "BarbaraKRocha@jourrapide.com",
+        "role": "user"
+      },
+      {
+        "id": 9,
+        "name": "Harold D. Christofferso",
+        "email": "MarkJDover@rhyta.com",
+        "role": "user"
+      },
+      {
+        "id": 10,
+        "name": "Amanda D. Jennings",
+        "email": "AnthonyEKendrick@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 11,
+        "name": "George M. Ricco",
+        "email": "KatrinaAJackson@rhyta.com",
+        "role": "user"
+      },
+      {
+        "id": 12,
+        "name": "Kenneth R. Wilson",
+        "email": "JohnCRogers@jourrapide.com",
+        "role": "user"
+      },
+      {
+        "id": 13,
+        "name": "Margaret L. Rohr",
+        "email": "EvelynRGordon@jourrapide.com",
+        "role": "user"
+      },
+      {
+        "id": 14,
+        "name": "Nicole B. Williams",
+        "email": "BrandyKLawson@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 15,
+        "name": "Mary S. Terrazas",
+        "email": "AmandaSMorris@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 16,
+        "name": "Nicole C. Rafferty",
+        "email": "AlbertoLBargo@dayrep.com",
+        "role": "user"
+      },
+      {
+        "id": 17,
+        "name": "Bernita M. Beveridge",
+        "email": "RogerOFord@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 18,
+        "name": "Maria Y. Norman",
+        "email": "RogerOFord@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 19,
+        "name": "Gene M. Bowen",
+        "email": "RogerOFord@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 20,
+        "name": "Alex J. Roberts",
+        "email": "RogerOFord@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 21,
+        "name": "Alex J. Roberts",
+        "email": "RogerOFord@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 22,
+        "name": "Alex J. Roberts",
+        "email": "RogerOFord@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 23,
+        "name": "Alex J. Roberts",
+        "email": "RogerOFord@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 24,
+        "name": "Alex J. Roberts",
+        "email": "RogerOFord@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 25,
+        "name": "Alex J. Roberts",
+        "email": "RogerOFord@teleworm.us",
+        "role": "user"
+      },
+      {
+        "id": 26,
+        "name": "Alex J. Roberts",
+        "email": "RogerOFord@teleworm.us",
+        "role": "user"
+      }
+    ]
+  },
+  "companies": {
+    "data": [
+      {
+        "id": 1,
+        "name": "Hoods",
+        "qos_site_id": "13433"
+      },
+      {
+        "id": 2,
+        "name": "Double Diamond",
+        "qos_site_id": "13434"
+      },
+      {
+        "id": 3,
+        "name": "Bert Wilgenburg",
+        "qos_site_id": "13435"
+      },
+      {
+        "id": 4,
+        "name": "Mike Faria",
+        "qos_site_id": "13666"
+      },
+      {
+        "id": 5,
+        "name": "Iest",
+        "qos_site_id": "13671"
+      },
+      {
+        "id": 6,
+        "name": "Eddie Gomes",
+        "qos_site_id": "13673"
+      },
+      {
+        "id": 7,
+        "name": "Wickstrom 1",
+        "qos_site_id": "14091"
+      }
+    ]
+  },
+  "inverters": {
+    "data": [
+      {
+        "id": 1,
+        "name": "Inverter 1",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 2,
+        "name": "Inverter 2",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 3,
+        "name": "Inverter 3",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 4,
+        "name": "Inverter 4",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 5,
+        "name": "Inverter 5",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 6,
+        "name": "Inverter 6",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 7,
+        "name": "Inverter 7",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 8,
+        "name": "Inverter 8",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 9,
+        "name": "Inverter 9",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 10,
+        "name": "Inverter 10",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 11,
+        "name": "Inverter 11",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 12,
+        "name": "Inverter 12",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 13,
+        "name": "Inverter 13",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 14,
+        "name": "Inverter 14",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 15,
+        "name": "Inverter 15",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 16,
+        "name": "Inverter 16",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 17,
+        "name": "Inverter 17",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 18,
+        "name": "Inverter 18",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 19,
+        "name": "Inverter 19",
+        "qos_site_id": "1293847"
+      },
+      {
+        "id": 20,
+        "name": "Inverter 20",
+        "qos_site_id": "1293847"
+      }
+    ]
+  },
+  "sensors": {
+    "data": [
+      {
+        "id": "20815407",
+        "inverter_id": "218671"
+      },
+      {
+        "id": "20815447",
+        "inverter_id": "218674"
+      },
+      {
+        "id": "20816089",
+        "inverter_id": "218693"
+      },
+      {
+        "id": "20816336",
+        "inverter_id": "218696"
+      },
+      {
+        "id": "20924852",
+        "inverter_id": "219465"
+      },
+      {
+        "id": "20924861",
+        "inverter_id": "219466"
+      },
+      {
+        "id": "20924870",
+        "inverter_id": "219467"
+      },
+      {
+        "id": "20924879",
+        "inverter_id": "219468"
+      },
+      {
+        "id": "20924888",
+        "inverter_id": "219469"
+      },
+      {
+        "id": "20924897",
+        "inverter_id": "219470"
+      },
+      {
+        "id": "20924906",
+        "inverter_id": "219471"
+      },
+      {
+        "id": "20924915",
+        "inverter_id": "219472"
+      },
+      {
+        "id": "20924924",
+        "inverter_id": "219473"
+      },
+      {
+        "id": "20924933",
+        "inverter_id": "219474"
+      },
+      {
+        "id": "20924942",
+        "inverter_id": "219475"
+      },
+      {
+        "id": "20924951",
+        "inverter_id": "219476"
+      },
+      {
+        "id": "20924960",
+        "inverter_id": "219477"
+      },
+      {
+        "id": "20924969",
+        "inverter_id": "219478"
+      },
+      {
+        "id": "20924978",
+        "inverter_id": "219479"
+      },
+      {
+        "id": "20924987",
+        "inverter_id": "219480"
+      },
+      {
+        "id": "20924996",
+        "inverter_id": "219481"
+      },
+      {
+        "id": "20925005",
+        "inverter_id": "219482"
+      },
+      {
+        "id": "20925014",
+        "inverter_id": "219483"
+      },
+      {
+        "id": "20925023",
+        "inverter_id": "219484"
+      },
+      {
+        "id": "20925032",
+        "inverter_id": "219485"
+      }
+    ]
+  },
+  "measurements": {
+    "data": [
+      {
+        "id": "9a249080-9624-45c2-a428-ee25cf276c6c",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 02:00:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-9cb8-4fc6-a609-810793663e11",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 02:15:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-9e1f-41b0-89b9-5f239a960219",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 02:30:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-9f34-4818-9049-e37b4527a855",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 02:45:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-9fe3-4e1c-82f2-4ccc897aa0b0",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 03:00:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a093-4be8-b2d4-099c5921f5b5",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 03:15:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a12c-454e-b912-e8de8811b9d4",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 03:30:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a1ec-4980-b2ac-058ce345c0fc",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 03:45:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a2bf-40d3-930f-9f7cd478d1e5",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 04:00:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a3ab-48cf-9b06-1b9756c21900",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 04:15:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a47f-4ab2-a756-e748571cc690",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 04:30:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a532-4fdb-ac5d-e8f0598a5c5f",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 04:45:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a5f4-4430-b7aa-ae4981249269",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 05:00:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a6ac-41f8-a1cf-cb441f347b53",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 05:15:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a798-403c-b2ea-c97c053796b2",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 05:30:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a86b-497d-991d-1831254a587d",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 05:45:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-a93f-419a-b6a3-b9ca83274534",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 06:00:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-aa43-4d2d-85aa-813646b728c2",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 06:15:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-ab12-4ad7-bf15-db91f2621345",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 06:30:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-abbe-40a5-a2c4-6ce7bacbb757",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 06:45:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-ac56-4e0f-a352-438047fb6175",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 07:00:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-ad3a-4eb6-a478-2f11f3fc337f",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 07:15:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-ae22-47a8-9b7b-ae4c3726945f",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 07:30:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-aeef-4773-b94e-f0f5f956f287",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 07:45:00",
+        "value": 4414975000
+      },
+      {
+        "id": "9a249080-afbc-48d7-9cfc-318fa7e8f56e",
+        "sensor_id": "20815407",
+        "collected_at": "2023-07-01 08:00:00",
+        "value": 4414975000
+      }
+    ]
+  }
+}
